@@ -31,6 +31,6 @@ Este proyecto tiene como objetivo desarrollar un sistema que envie notificacione
     docker-compose.yml
 
 #Equipo:
-Arturo 
-Jean
-Javiela
+-Arturo 
+-Jean
+-Javiela
